@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CAT-001",
+    "name": "Processors",
+    "manager": "Hardware Division Lead",
+    "categoryIconUrl": "cpu-icon.jpg",
+    "establishedYear": 2000,
+    "motto": "Brains of the Machine"
+  },
+  {
+    "id": "CAT-002",
+    "name": "Graphics Cards",
+    "manager": "Visual Computing Chief",
+    "categoryIconUrl": "gpu-icon.jpg",
+    "establishedYear": 2003,
+    "motto": "Power Your Vision"
+  },
+  {
+    "id": "CAT-003",
+    "name": "Storage Devices",
+    "manager": "Data Solutions Head",
+    "categoryIconUrl": "storage-icon.jpg",
+    "establishedYear": 1998,
+    "motto": "Where Speed Meets Capacity"
+  },
+  {
+    "id": "CAT-004",
+    "name": "Memory Modules",
+    "manager": "Performance Team Lead",
+    "categoryIconUrl": "memory-icon.jpg",
+    "establishedYear": 2001,
+    "motto": "Fuel for Speed"
+  },
+  {
+    "id": "CAT-005",
+    "name": "Motherboards",
+    "manager": "System Architecture Lead",
+    "categoryIconUrl": "motherboard-icon.jpg",
+    "establishedYear": 1999,
+    "motto": "Foundation of Performance"
+  }
+]
