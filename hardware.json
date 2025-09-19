@@ -6,7 +6,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-09-27",
-    "imageUrl": "ryzen9-7950x.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/ryzen9-7950x.jpg",
     "category": "CPU",
     "features": ["16 cores", "32 threads", "5.7GHz boost", "AM5 socket"],
     "categoryid": "CAT-001"
@@ -18,7 +18,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-10-20",
-    "imageUrl": "i9-13900k.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/i9-13900k.jpg",
     "category": "CPU",
     "features": ["24 cores", "32 threads", "5.8GHz turbo", "LGA1700 socket"],
     "categoryid": "CAT-001"
@@ -30,7 +30,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-10-12",
-    "imageUrl": "rtx-4090.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rtx-4090.jpg",
     "category": "GPU",
     "features": ["24GB GDDR6X", "DLSS 3.0", "Ray Tracing", "PCIe 4.0"],
     "categoryid": "CAT-002"
@@ -42,7 +42,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-12-13",
-    "imageUrl": "rx-7900xtx.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rx-7900xtx.jpg",
     "category": "GPU",
     "features": ["24GB GDDR6", "Ray Tracing", "Chiplet design", "PCIe 4.0"],
     "categoryid": "CAT-002"
@@ -54,7 +54,7 @@
     "age": 3,
     "isActive": true,
     "releaseDate": "2020-09-22",
-    "imageUrl": "samsung-980pro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/samsung-980pro.jpg",
     "category": "Storage",
     "features": ["PCIe 4.0", "7000MB/s lezen", "5000MB/s schrijven", "M.2 formaat"],
     "categoryid": "CAT-003"
@@ -66,7 +66,7 @@
     "age": 2,
     "isActive": true,
     "releaseDate": "2021-08-11",
-    "imageUrl": "seagate-18tb.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/seagate-18tb.jpg",
     "category": "Storage",
     "features": ["18TB capaciteit", "NAS optimalisatie", "7200 RPM", "256MB cache"],
     "categoryid": "CAT-003"
@@ -78,7 +78,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-05-15",
-    "imageUrl": "corsair-ddr5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/corsair-ddr5.jpg",
     "category": "Memory",
     "features": ["32GB kit", "DDR5", "6000MHz", "XMP 3.0 ondersteuning"],
     "categoryid": "CAT-004"
@@ -90,7 +90,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-07-09",
-    "imageUrl": "ram.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/ram.jpg",
     "category": "Memory",
     "features": ["64GB kit", "DDR5", "6400MHz", "RGB verlichting"],
     "categoryid": "CAT-004"
@@ -102,7 +102,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-10-15",
-    "imageUrl": "motherboard.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/asusmotherboard.jpg",
     "category": "Motherboard",
     "features": ["LGA1700 socket", "PCIe 5.0", "WiFi 6E", "DDR5 ondersteuning"],
     "categoryid": "CAT-005"
@@ -114,9 +114,10 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-11-01",
-    "imageUrl": "Motherboard.jpg",
-    "category": "Motherboard",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/motherboard.jpg",
+    "category": "motherboard",
     "features": ["AM5 socket", "PCIe 5.0", "DDR5 ondersteuning", "USB-C"],
     "categoryid": "CAT-005"
   }
 ]
+
