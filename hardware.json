@@ -1,7 +1,7 @@
 [
   {
     "id": "HW-001",
-    "name": "Ryzen9 7950X",
+    "name": "Ryzen 9 7950X",
     "description": "Een krachtige high-end CPU van AMD met 16 cores en 32 threads, ideaal voor gaming en zware workloads zoals video editing en 3D rendering.",
     "age": 1,
     "isActive": true,
@@ -120,6 +120,7 @@
     "categoryid": "CAT-005"
   }
 ]
+
 
 
 
