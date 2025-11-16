@@ -17,7 +17,7 @@
   },
   {
     "id": "CAT-003",
-    "name": "Storage Devices",
+    "name": "Storage",
     "manager": "Data Solutions Head",
     "categoryIconUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/storage-icon.jpg",
     "establishedYear": 1998,
@@ -41,3 +41,4 @@
   }
 
 ]
+
