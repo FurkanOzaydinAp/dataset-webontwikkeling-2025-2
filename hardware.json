@@ -90,7 +90,7 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-07-09",
-    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/ram.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/gskillram.jpg",
     "category": "Memory",
     "features": ["64GB kit", "DDR5", "6400MHz", "RGB verlichting"],
     "categoryid": "CAT-004"
@@ -120,4 +120,5 @@
     "categoryid": "CAT-005"
   }
 ]
+
 
