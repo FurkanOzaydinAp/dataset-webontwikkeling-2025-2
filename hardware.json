@@ -7,7 +7,7 @@
     "isActive": true,
     "releaseDate": "2022-09-27",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/ryzen9-7950x.jpg",
-    "category": "CPU",
+    "category": "Processors",
     "features": ["16 cores", "32 threads", "5.7GHz boost", "AM5 socket"],
     "categoryid": "CAT-001"
   },
@@ -19,7 +19,7 @@
     "isActive": true,
     "releaseDate": "2022-10-20",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/i9-13900k.jpg",
-    "category": "CPU",
+    "category": "Processors",
     "features": ["24 cores", "32 threads", "5.8GHz turbo", "LGA1700 socket"],
     "categoryid": "CAT-001"
   },
@@ -31,7 +31,7 @@
     "isActive": true,
     "releaseDate": "2022-10-12",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rtx-4090.jpg",
-    "category": "GPU",
+    "category": "Graphics Cards",
     "features": ["24GB GDDR6X", "DLSS 3.0", "Ray Tracing", "PCIe 4.0"],
     "categoryid": "CAT-002"
   },
@@ -43,7 +43,7 @@
     "isActive": true,
     "releaseDate": "2022-12-13",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rx-7900xtx.jpg",
-    "category": "GPU",
+    "category": "Graphics Cards",
     "features": ["24GB GDDR6", "Ray Tracing", "Chiplet design", "PCIe 4.0"],
     "categoryid": "CAT-002"
   },
@@ -79,7 +79,7 @@
     "isActive": true,
     "releaseDate": "2022-05-15",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/corsair-ddr5.jpg",
-    "category": "Memory",
+    "category": "Memory Modules",
     "features": ["32GB kit", "DDR5", "6000MHz", "XMP 3.0 ondersteuning"],
     "categoryid": "CAT-004"
   },
@@ -91,7 +91,7 @@
     "isActive": true,
     "releaseDate": "2022-07-09",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/gskillram.jpg",
-    "category": "Memory",
+    "category": "Memory Modules",
     "features": ["64GB kit", "DDR5", "6400MHz", "RGB verlichting"],
     "categoryid": "CAT-004"
   },
@@ -115,11 +115,12 @@
     "isActive": true,
     "releaseDate": "2022-11-01",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/msimotherboard.jpg",
-    "category": "motherboard",
+    "category": "Motherboard",
     "features": ["AM5 socket", "PCIe 5.0", "DDR5 ondersteuning", "USB-C"],
     "categoryid": "CAT-005"
   }
 ]
+
 
 
 
