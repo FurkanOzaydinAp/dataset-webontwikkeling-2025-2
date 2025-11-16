@@ -114,11 +114,12 @@
     "age": 1,
     "isActive": true,
     "releaseDate": "2022-11-01",
-    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/motherboard.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/msimotherboard.jpg",
     "category": "motherboard",
     "features": ["AM5 socket", "PCIe 5.0", "DDR5 ondersteuning", "USB-C"],
     "categoryid": "CAT-005"
   }
 ]
+
 
 
