@@ -1,7 +1,7 @@
 [
   {
     "id": "HW-001",
-    "name": "Ryzen 9 7950X",
+    "name": "Ryzen97950X",
     "description": "Een krachtige high-end CPU van AMD met 16 cores en 32 threads, ideaal voor gaming en zware workloads zoals video editing en 3D rendering.",
     "age": 1,
     "isActive": true,
@@ -13,7 +13,7 @@
   },
   {
     "id": "HW-002",
-    "name": "Intel Core i9-13900K",
+    "name": "IntelCorei9-13900K",
     "description": "Een vlaggenschip CPU van Intel met hybride architectuur, bestaande uit performance en efficiency cores voor maximale prestaties en energiebeheer.",
     "age": 1,
     "isActive": true,
@@ -25,7 +25,7 @@
   },
   {
     "id": "HW-003",
-    "name": "NVIDIA GeForce RTX 4090",
+    "name": "NVIDIAGeForceRTX4090",
     "description": "De krachtigste gaming GPU van NVIDIA, gebaseerd op de Ada Lovelace-architectuur, ontworpen voor 4K gaming en AI-toepassingen.",
     "age": 1,
     "isActive": true,
@@ -37,7 +37,7 @@
   },
   {
     "id": "HW-004",
-    "name": "AMD Radeon RX 7900 XTX",
+    "name": "AMDRadeonRX7900XTX",
     "description": "Een high-end grafische kaart van AMD op basis van de RDNA 3-architectuur, gericht op gaming op hoge resoluties en efficiënte prestaties.",
     "age": 1,
     "isActive": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": "HW-005",
-    "name": "Samsung 980 PRO NVMe SSD",
+    "name": "Samsung980PRONVMeSSD",
     "description": "Een snelle SSD met PCIe 4.0 ondersteuning, ontworpen voor hoge lees- en schrijfsnelheden, ideaal voor gamers en professionals.",
     "age": 3,
     "isActive": true,
@@ -61,7 +61,7 @@
   },
   {
     "id": "HW-006",
-    "name": "Seagate IronWolf 18TB",
+    "name": "SeagateIronWolf18TB",
     "description": "Een NAS-geoptimaliseerde harde schijf met hoge capaciteit en betrouwbaarheid, ontworpen voor continue 24/7 prestaties.",
     "age": 2,
     "isActive": true,
@@ -73,7 +73,7 @@
   },
   {
     "id": "HW-007",
-    "name": "Corsair Vengeance DDR5 32GB",
+    "name": "CorsairVengeanceDDR532GB",
     "description": "Hoogwaardige DDR5 RAM-modules met hoge snelheid, ontworpen voor gamers en professionals die maximale prestaties nodig hebben.",
     "age": 1,
     "isActive": true,
@@ -85,7 +85,7 @@
   },
   {
     "id": "HW-008",
-    "name": "G.Skill Trident Z5 RGB 64GB",
+    "name": "G.SkillTridentZ5RGB64GB",
     "description": "Een premium DDR5 geheugenkit met RGB-verlichting, geschikt voor high-performance systemen en overclocking.",
     "age": 1,
     "isActive": true,
@@ -97,7 +97,7 @@
   },
   {
     "id": "HW-009",
-    "name": "ASUS ROG STRIX Z790-E",
+    "name": "ASUSROGSTRIXZ790-E",
     "description": "Een high-end moederbord voor Intel’s 13e generatie processors met uitgebreide aansluitmogelijkheden en sterke VRM-architectuur.",
     "age": 1,
     "isActive": true,
@@ -109,7 +109,7 @@
   },
   {
     "id": "HW-010",
-    "name": "MSI MAG B650 TOMAHAWK",
+    "name": "MSIMAGB650TOMAHAWK",
     "description": "Een solide AM5-moederbord van MSI met ondersteuning voor DDR5 en PCIe 5.0, ontworpen voor gamers die stabiliteit en prestaties zoeken.",
     "age": 1,
     "isActive": true,
@@ -120,6 +120,7 @@
     "categoryid": "CAT-005"
   }
 ]
+
 
 
 
