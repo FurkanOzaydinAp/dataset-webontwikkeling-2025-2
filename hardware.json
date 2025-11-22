@@ -105,7 +105,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/asusmotherboard.jpg",
     "category": "Motherboard",
     "features": ["LGA1700 socket", "PCIe 5.0", "WiFi 6E", "DDR5 ondersteuning"],
-    "categoryid": "CAT-005"
+    "categoryId": "CAT-005"
   },
   {
     "id": "HW-010",
@@ -117,9 +117,10 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/msimotherboard.jpg",
     "category": "Motherboard",
     "features": ["AM5 socket", "PCIe 5.0", "DDR5 ondersteuning", "USB-C"],
-    "categoryid": "CAT-005"
+    "categoryId": "CAT-005"
   }
 ]
+
 
 
 
