@@ -9,7 +9,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/ryzen9-7950x.jpg",
     "category": "Processors",
     "features": ["16 cores", "32 threads", "5.7GHz boost", "AM5 socket"],
-    "categoryid": "CAT-001"
+    "categoryId": "CAT-001"
   },
   {
     "id": "HW-002",
@@ -21,7 +21,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/i9-13900k.jpg",
     "category": "Processors",
     "features": ["24 cores", "32 threads", "5.8GHz turbo", "LGA1700 socket"],
-    "categoryid": "CAT-001"
+    "categoryId": "CAT-001"
   },
   {
     "id": "HW-003",
@@ -33,7 +33,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rtx-4090.jpg",
     "category": "Graphics Cards",
     "features": ["24GB GDDR6X", "DLSS 3.0", "Ray Tracing", "PCIe 4.0"],
-    "categoryid": "CAT-002"
+    "categoryId": "CAT-002"
   },
   {
     "id": "HW-004",
@@ -45,7 +45,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rx-7900xtx.jpg",
     "category": "Graphics Cards",
     "features": ["24GB GDDR6", "Ray Tracing", "Chiplet design", "PCIe 4.0"],
-    "categoryid": "CAT-002"
+    "categoryId": "CAT-002"
   },
   {
     "id": "HW-005",
@@ -57,7 +57,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/samsung-980pro.jpg",
     "category": "Storage",
     "features": ["PCIe 4.0", "7000MB/s lezen", "5000MB/s schrijven", "M.2 formaat"],
-    "categoryid": "CAT-003"
+    "categoryId": "CAT-003"
   },
   {
     "id": "HW-006",
@@ -69,7 +69,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/seagate-18tb.jpg",
     "category": "Storage",
     "features": ["18TB capaciteit", "NAS optimalisatie", "7200 RPM", "256MB cache"],
-    "categoryid": "CAT-003"
+    "categoryId": "CAT-003"
   },
   {
     "id": "HW-007",
@@ -81,7 +81,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/corsair-ddr5.jpg",
     "category": "Memory Modules",
     "features": ["32GB kit", "DDR5", "6000MHz", "XMP 3.0 ondersteuning"],
-    "categoryid": "CAT-004"
+    "categoryId": "CAT-004"
   },
   {
     "id": "HW-008",
@@ -93,7 +93,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/gskillram.jpg",
     "category": "Memory Modules",
     "features": ["64GB kit", "DDR5", "6400MHz", "RGB verlichting"],
-    "categoryid": "CAT-004"
+    "categoryId": "CAT-004"
   },
   {
     "id": "HW-009",
@@ -120,6 +120,7 @@
     "categoryid": "CAT-005"
   }
 ]
+
 
 
 
