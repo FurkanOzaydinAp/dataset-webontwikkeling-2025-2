@@ -5,7 +5,7 @@
     "description": "Een krachtige high-end CPU van AMD met 16 cores en 32 threads, ideaal voor gaming en zware workloads zoals video editing en 3D rendering.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-09-27",
+    "releaseDate": "27-09-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/ryzen9-7950x.jpg",
     "category": "Processors",
     "features": ["16 cores", "32 threads", "5.7GHz boost", "AM5 socket"],
@@ -17,7 +17,7 @@
     "description": "Een vlaggenschip CPU van Intel met hybride architectuur, bestaande uit performance en efficiency cores voor maximale prestaties en energiebeheer.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-10-20",
+    "releaseDate": "20-10-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/i9-13900k.jpg",
     "category": "Processors",
     "features": ["24 cores", "32 threads", "5.8GHz turbo", "LGA1700 socket"],
@@ -29,7 +29,7 @@
     "description": "De krachtigste gaming GPU van NVIDIA, gebaseerd op de Ada Lovelace-architectuur, ontworpen voor 4K gaming en AI-toepassingen.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-10-12",
+    "releaseDate": "12-10-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rtx-4090.jpg",
     "category": "Graphics Cards",
     "features": ["24GB GDDR6X", "DLSS 3.0", "Ray Tracing", "PCIe 4.0"],
@@ -41,7 +41,7 @@
     "description": "Een high-end grafische kaart van AMD op basis van de RDNA 3-architectuur, gericht op gaming op hoge resoluties en efficiënte prestaties.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-12-13",
+    "releaseDate": "13-12-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/rx-7900xtx.jpg",
     "category": "Graphics Cards",
     "features": ["24GB GDDR6", "Ray Tracing", "Chiplet design", "PCIe 4.0"],
@@ -53,7 +53,7 @@
     "description": "Een snelle SSD met PCIe 4.0 ondersteuning, ontworpen voor hoge lees- en schrijfsnelheden, ideaal voor gamers en professionals.",
     "age": 3,
     "isActive": true,
-    "releaseDate": "2020-09-22",
+    "releaseDate": "22-09-2020",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/samsung-980pro.jpg",
     "category": "Storage",
     "features": ["PCIe 4.0", "7000MB/s lezen", "5000MB/s schrijven", "M.2 formaat"],
@@ -65,7 +65,7 @@
     "description": "Een NAS-geoptimaliseerde harde schijf met hoge capaciteit en betrouwbaarheid, ontworpen voor continue 24/7 prestaties.",
     "age": 2,
     "isActive": true,
-    "releaseDate": "2021-08-11",
+    "releaseDate": "11-08-2021",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/seagate-18tb.jpg",
     "category": "Storage",
     "features": ["18TB capaciteit", "NAS optimalisatie", "7200 RPM", "256MB cache"],
@@ -77,7 +77,7 @@
     "description": "Hoogwaardige DDR5 RAM-modules met hoge snelheid, ontworpen voor gamers en professionals die maximale prestaties nodig hebben.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-05-15",
+    "releaseDate": "15-05-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/corsair-ddr5.jpg",
     "category": "Memory Modules",
     "features": ["32GB kit", "DDR5", "6000MHz", "XMP 3.0 ondersteuning"],
@@ -89,7 +89,7 @@
     "description": "Een premium DDR5 geheugenkit met RGB-verlichting, geschikt voor high-performance systemen en overclocking.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-07-09",
+    "releaseDate": "09-07-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/gskillram.jpg",
     "category": "Memory Modules",
     "features": ["64GB kit", "DDR5", "6400MHz", "RGB verlichting"],
@@ -101,7 +101,7 @@
     "description": "Een high-end moederbord voor Intel’s 13e generatie processors met uitgebreide aansluitmogelijkheden en sterke VRM-architectuur.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-10-15",
+    "releaseDate": "15-10-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/asusmotherboard.jpg",
     "category": "Motherboard",
     "features": ["LGA1700 socket", "PCIe 5.0", "WiFi 6E", "DDR5 ondersteuning"],
@@ -113,19 +113,10 @@
     "description": "Een solide AM5-moederbord van MSI met ondersteuning voor DDR5 en PCIe 5.0, ontworpen voor gamers die stabiliteit en prestaties zoeken.",
     "age": 1,
     "isActive": true,
-    "releaseDate": "2022-11-01",
+    "releaseDate": "01-11-2022",
     "imageUrl": "https://raw.githubusercontent.com/FurkanOzaydinAp/dataset-webontwikkeling-2025-2/refs/heads/main/images/msimotherboard.jpg",
     "category": "Motherboard",
     "features": ["AM5 socket", "PCIe 5.0", "DDR5 ondersteuning", "USB-C"],
     "categoryId": "CAT-005"
   }
 ]
-
-
-
-
-
-
-
-
-
